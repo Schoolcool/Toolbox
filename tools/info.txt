@@ -1,0 +1,5 @@
+DNS : pip install dnspython
+ARP : pip install scapy
+TLS : pip install cryptography
+Brute force : pip install hashlib
+pip install itertools
